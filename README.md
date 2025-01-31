@@ -54,8 +54,11 @@ The model was trained on the [Monet2Photo](https://www.kaggle.com/datasets/balra
 Example of style transfer result:
 
 - Original Image:
+
 ![image](./result/input.png)
+
 - Style Transferred Image:
+
 ![image](./result/output.png)
 
 ## Libraries used
