@@ -69,6 +69,7 @@ Example of style transfer result:
 This repository provides functionality for styling images using neural networks. You can also make use of Telegram bot for quick image styling Monet directly in the app.
 
 **Telegram Bot**: [t.me/StyleTransferMonet_bot](https://t.me/StyleTransferMonet_bot)
+**Demo video**: [Video](https://www.youtube.com/watch?v=b2rxr86PyxE)
 
 ## Libraries used
 
