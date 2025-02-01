@@ -55,11 +55,15 @@ Example of style transfer result:
 
 - Original Image:
 
-![image](./result/input.png)
+<p align="center">
+  <img src="./result/input.png" alt="Original Image">
+</p>
 
 - Style Transferred Image:
 
-![image](./result/output.png)
+<p align="center">
+  <img src="./result/output.png" alt="Style Transferred Image">
+</p>
 
 ## Libraries used
 
